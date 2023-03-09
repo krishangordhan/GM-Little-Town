@@ -67,3 +67,9 @@ if (vx != 0 || vy != 0) {
 }
 
 #endregion
+
+#region Depth Sorting
+
+depth = -y;
+
+#endregion
