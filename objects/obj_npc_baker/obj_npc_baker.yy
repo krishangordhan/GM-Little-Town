@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_barrel01",
+  "name": "obj_npc_baker",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Environment",
-    "path": "folders/Objects/Environment.yy",
+    "name": "NPCs",
+    "path": "folders/Objects/NPCs.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_environment",
-    "path": "objects/obj_par_environment/obj_par_environment.yy",
+    "name": "obj_par_NPC",
+    "path": "objects/obj_par_NPC/obj_par_NPC.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_barrel01",
-    "path": "sprites/spr_barrel01/spr_barrel01.yy",
+    "name": "spr_baker_idle_down",
+    "path": "sprites/spr_baker_idle_down/spr_baker_idle_down.yy",
   },
   "spriteMaskId": null,
   "visible": true,

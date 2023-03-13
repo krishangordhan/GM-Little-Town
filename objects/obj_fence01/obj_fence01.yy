@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_barrel01",
+  "name": "obj_fence01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_barrel01",
-    "path": "sprites/spr_barrel01/spr_barrel01.yy",
+    "name": "spr_fence01",
+    "path": "sprites/spr_fence01/spr_fence01.yy",
   },
   "spriteMaskId": null,
   "visible": true,

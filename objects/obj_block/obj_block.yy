@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_barrel01",
+  "name": "obj_block",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Environment",
-    "path": "folders/Objects/Environment.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": {
     "name": "obj_par_environment",
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_barrel01",
-    "path": "sprites/spr_barrel01/spr_barrel01.yy",
+    "name": "spr_block",
+    "path": "sprites/spr_block/spr_block.yy",
   },
   "spriteMaskId": null,
   "visible": true,

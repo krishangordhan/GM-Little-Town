@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_barrel01",
+  "name": "obj_tree01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_barrel01",
-    "path": "sprites/spr_barrel01/spr_barrel01.yy",
+    "name": "spr_tree01",
+    "path": "sprites/spr_tree01/spr_tree01.yy",
   },
   "spriteMaskId": null,
   "visible": true,

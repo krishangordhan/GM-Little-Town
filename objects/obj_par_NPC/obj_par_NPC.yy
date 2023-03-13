@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_par_environment",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-  ],
+  "name": "obj_par_NPC",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Environment",
-    "path": "folders/Objects/Environment.yy",
+    "name": "NPCs",
+    "path": "folders/Objects/NPCs.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +23,10 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"loopRange01","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"30","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"loopRange02","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"240","varType":0,},
+  ],
   "solid": false,
   "spriteId": null,
   "spriteMaskId": null,
